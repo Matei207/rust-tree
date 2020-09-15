@@ -1,5 +1,5 @@
 [package]
-name = "rust-tree"
+name = "rust_tree"
 version = "0.1.0"
 authors = ["Matei David <matei.david.35@gmail.com>"]
 edition = "2018"

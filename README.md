@@ -16,4 +16,6 @@
 
 
 1. [ ]  RTFM
-
+2. [ ] Write initial tests
+   - write tests to make sure we only print what is in the current folder (no recursing)
+   - after that write tests to make sure we recurse only in non-hidden folders
