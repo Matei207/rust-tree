@@ -1,7 +1,7 @@
-use std::io;
-//TODO: add cfg to parse cli options
+use std::{env, io};
 fn main() -> io::Result<()> {
-    rust_tree::run()?;
+    let args = env::args();
+    rust_tree::run(args)?;
 
     Ok(())
 }
