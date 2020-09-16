@@ -1,5 +1,5 @@
 use std::io;
-
+//TODO: add cfg to parse cli options
 fn main() -> io::Result<()> {
     rust_tree::run()?;
 

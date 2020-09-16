@@ -16,3 +16,9 @@
 
 
 1. [ ]  RTFM
+
+
+### TIL
+---
+
+* Day 3: to get len() or last element when we have an iterator we should collect into a vector
